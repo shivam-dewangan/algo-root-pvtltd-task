@@ -16,10 +16,10 @@ A *modern* and *fully responsive* Task Manager application built with *React* an
 ## 🖼 Screenshots  
 
 ### *🌟 Task Manager Web App*
-![Task Manager UI](assets/web.img)
+![Task Manager UI](assets/web.png)
 
 ### *🌟 MongoDB Setup*
-![MongoDB Connection](assets/mong.img)
+![MongoDB Connection](assets/mong.png)
 
 ---
 
